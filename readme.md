@@ -1,11 +1,23 @@
 # apibtc.com Javascript API
 
+[![npm package](https://nodei.co/npm/apibtc.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/apibtc/)
 
 ---
 
 ### Getting Started
 
 You will first need an [ApiBtc](https://apibtc.com) account, your **secret key**, and a **wallet token**. See the ApiBtc docs here. https://apibtc.com/en/docs.
+
+
+
+### Installation
+```sh
+npm i apibtc
+```
+or
+```sh
+yarn add apibtc
+```
 
 
 
