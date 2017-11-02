@@ -1,0 +1,12 @@
+{
+  "name": "apibtc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Devin Smith",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
